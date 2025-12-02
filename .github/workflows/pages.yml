@@ -33,7 +33,7 @@ jobs:
       - name: Build with Jekyll
         run: |
           gem install bundler jekyll
-          gem install just-the-docs
+          gem install just-the-docs jekyll-remote-theme
           jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
