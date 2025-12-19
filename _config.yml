@@ -11,6 +11,11 @@ color_scheme: light
 aux_links:
   "GitHub":
     - "https://github.com/zettai-seigi/TalentAndWorkforceManagementHandbook"
+  "English":
+    - "/TalentAndWorkforceManagementHandbook/"
+  "Indonesia":
+    - "/TalentAndWorkforceManagementHandbook/id/"
+aux_links_new_tab: false
 
 # Footer
 footer_content: "Copyright &copy; 2024. Distributed under the MIT License."
